@@ -206,10 +206,10 @@ $databases = array (
     'default' => 
     array (
       'database' => 'db419052460',
-      'username' => 'dbo419052460',
+      'username' => 'root',
       'password' => 'Cdp26201',
-      'host' => 'db419052460.db.1and1.com',
-      'port' => '3306',
+      'host' => 'localhost',
+      'port' => '',
       'driver' => 'mysql',
       'prefix' => '',
     ),

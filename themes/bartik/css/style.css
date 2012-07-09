@@ -571,6 +571,7 @@ h1#site-name {
 h1#page-title {
   font-size: 2em;
   line-height: 1;
+  color: #ffffff;
 }
 #content h2 {
   margin-bottom: 2px;
